@@ -1,0 +1,30 @@
+{
+  "name": "simple-ip-report",
+  "version": "1.0.0",
+  "main": "main.js",
+  "bin": {
+    "simple-ip-report": "main.js"
+  },
+  "dependencies": {
+    "excel4node": "^1.7.2",
+    "mac-lookup": "^1.0.1",
+    "node-arp": "^1.0.6",
+    "ping": "^0.4.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rayfoster14",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayfoster14/simple-ip-report.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rayfoster14/simple-ip-report/issues"
+  },
+  "homepage": "https://github.com/rayfoster14/simple-ip-report#readme",
+  "description": ""
+}
