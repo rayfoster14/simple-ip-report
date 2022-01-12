@@ -9,7 +9,7 @@ Simple IP reporter is a small, basic script that will scan your local environmen
 
 ## Run from NodeJS
 
-!> Requires NODEJS / NPM for running from source
+> Requires NODEJS / NPM for running from source
 
 1. Downlaod source from this Git and extract the contents to a directory
 2. ```cd``` to directory, and run ```npm install```
